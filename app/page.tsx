@@ -1,7 +1,10 @@
 import Image from "next/image";
+
 import styles from "./page.module.css";
+import { ErrorInput } from "./components/errorInput";
 
 export default function Home() {
+
   return (
     <div className={styles.page}>
       <main className={styles.main}>
@@ -19,6 +22,8 @@ export default function Home() {
           </li>
           <li>Save and see your changes instantly.</li>
         </ol>
+
+        <ErrorInput />
 
         <div className={styles.ctas}>
           <a

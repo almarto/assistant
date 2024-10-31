@@ -9,9 +9,9 @@ export default function Layout({ children }: { children: JSX.Element }) {
   return (
     <html lang="en">
       <head>
-        <title id="title">Brisa</title>
+        <title id="title">Almarto Assistant</title>
         <meta name="theme-color" content="#ad1457" />
-        <link rel="shortcut icon" href="/brisa.svg" />
+        <link rel="shortcut icon" href="/logo.svg" content='#ffffff' sizes="32x32"/>
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link
           rel="preconnect"

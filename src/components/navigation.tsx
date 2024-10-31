@@ -8,8 +8,7 @@ export default function Nav() {
           target="_blank"
           rel="noreferrer"
         >
-          <img src="/brisa.svg" alt="Brisa Framework logo" width="30" />
-          Brisa
+          <img src="/fullLogo.svg" alt="Almarto Assistant logo" width="120" />
         </a>
         <ul>
           <li>

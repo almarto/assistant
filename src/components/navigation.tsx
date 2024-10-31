@@ -4,9 +4,7 @@ export default function Nav() {
       <div class="nav-content">
         <a
           class="logo"
-          href="https://brisa.build"
-          target="_blank"
-          rel="noreferrer"
+          href="/"
         >
           <img src="/fullLogo.svg" alt="Almarto Assistant logo" width="120" />
         </a>

@@ -4,6 +4,7 @@ import Footer from '@/components/footer';
 import '@/styles/style.css';
 import '@/styles/nav.css';
 import '@/styles/footer.css';
+import '@/styles/global.css';
 
 export default function Layout({ children }: { children: JSX.Element }) {
   return (
